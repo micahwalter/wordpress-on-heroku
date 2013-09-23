@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!apc.conf.php
+!phpinfo.php
+!wp-config.php
+!wp-content/
